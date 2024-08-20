@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BattleSquid/FileContentIndex
+/BattleSquid/BattleSquid.csproj
+/BattleSquid/BattleSquid.csproj.user
+/BattleSquid/GettingStarted.Xamarin
+/.vs/BattleSquid/v17
+/BattleSquid/Assets/AboutAssets.txt
+/BattleSquid/obj
+/BattleSquid/bin/Debug
+/BattleSquid/Resources/AboutResources.txt
